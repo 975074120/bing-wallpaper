@@ -30,7 +30,7 @@ jobs:
       run: date
     
     - name: Restore dependencies
-      run: dotnet restore BingWallpaper/BingWallpaper.csprog
+      run: dotnet restore BingWallpaper/BingWallpaper.csproj
     
     - name: Build
       run: dotnet build BingWallpaper/BingWallpaper.csproj -c Release --no-restore
