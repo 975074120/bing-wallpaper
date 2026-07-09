@@ -11,7 +11,7 @@ public class BingApiService
     private const string BingApiTemplate = "https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&pid=hp&FORM=BEHPTB&uhd=1&setmkt={0}&setlang=en";
     private const string BingUrl = "https://cn.bing.com";
 
-    private static readonly string[] Regions = { "en-US", "zh-CN" };
+    public static readonly string[] Regions = { "en-US", "zh-CN" };
 
     private readonly HttpClient _httpClient;
 
@@ -23,30 +23,9 @@ public class BingApiService
     }
 
     /// <summary>
-    /// 获取所有地区的壁纸
+    /// 获取指定地区的壁纸（只取第一张今日壁纸）
     /// </summary>
-    public async Task<List<BingImage>> FetchAllAsync()
-    {
-        var allImages = new List<BingImage>();
-        foreach (var region in Regions)
-        {
-            try
-            {
-                var images = await FetchByRegionAsync(region);
-                allImages.AddRange(images);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"[WARN] Failed to fetch region {region}: {ex.Message}");
-            }
-        }
-        return allImages;
-    }
-
-    /// <summary>
-    /// 获取指定地区的壁纸
-    /// </summary>
-    public async Task<List<BingImage>> FetchByRegionAsync(string region)
+    public async Task<BingImage?> FetchTodayAsync(string region)
     {
         string apiUrl = string.Format(BingApiTemplate, region);
         string json = await _httpClient.GetStringAsync(apiUrl);
@@ -55,23 +34,20 @@ public class BingApiService
         var root = doc.RootElement;
         var imagesArray = root.GetProperty("images");
 
-        var result = new List<BingImage>();
-        foreach (var item in imagesArray.EnumerateArray())
+        if (imagesArray.GetArrayLength() == 0) return null;
+
+        var item = imagesArray[0];
+        string url = BingUrl + item.GetProperty("url").GetString();
+        string enddate = item.GetProperty("enddate").GetString()!;
+        string copyright = item.GetProperty("copyright").GetString() ?? "";
+
+        // 转换日期格式: yyyyMMdd -> yyyy-MM-dd
+        if (DateTime.TryParseExact(enddate, "yyyyMMdd", null,
+                System.Globalization.DateTimeStyles.None, out var dt))
         {
-            string url = BingUrl + item.GetProperty("url").GetString();
-            string enddate = item.GetProperty("enddate").GetString()!;
-            string copyright = item.GetProperty("copyright").GetString() ?? "";
-
-            // 转换日期格式: yyyyMMdd -> yyyy-MM-dd
-            if (DateTime.TryParseExact(enddate, "yyyyMMdd", null,
-                    System.Globalization.DateTimeStyles.None, out var dt))
-            {
-                enddate = dt.ToString("yyyy-MM-dd");
-            }
-
-            result.Add(new BingImage(copyright, enddate, url));
+            enddate = dt.ToString("yyyy-MM-dd");
         }
 
-        return result;
+        return new BingImage(copyright, enddate, url);
     }
 }
