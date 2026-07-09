@@ -1,25 +1,38 @@
 using System.Text;
+using System.Text.Json;
 using BingWallpaper.Models;
 
 namespace BingWallpaper.Services;
 
 /// <summary>
-/// 文件操作服务 - 读写壁纸数据和生成文档
+/// 文件操作服务 - 按地区读写壁纸数据和生成文档
 /// </summary>
 public class FileService
 {
-    private readonly string _bingPath;
-    private readonly string _readmePath;
-    private readonly string _pictureDir;
-    private readonly string _docsDir;
+    private readonly string _rootDir;
+    private readonly string _region;
+    private readonly string _prefix;
 
-    public FileService(string rootDir)
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="rootDir">仓库根目录</param>
+    /// <param name="region">地区代码，如 "en-US"</param>
+    public FileService(string rootDir, string region)
     {
-        _bingPath = Path.Combine(rootDir, "bing-wallpaper.md");
-        _readmePath = Path.Combine(rootDir, "README.md");
-        _pictureDir = Path.Combine(rootDir, "picture");
-        _docsDir = Path.Combine(rootDir, "docs");
+        _rootDir = rootDir;
+        _region = region;
+
+        // en-US → 根目录, zh-CN → zh-cn/
+        _prefix = region.Equals("en-US", StringComparison.OrdinalIgnoreCase) ? "" : "zh-cn/";
+
+        Console.WriteLine($"[INFO] FileService initialized: region={region}, prefix='{_prefix}'");
     }
+
+    private string GetBingPath() => Path.Combine(_rootDir, _prefix, "bing-wallpaper.md");
+    private string GetReadmePath() => Path.Combine(_rootDir, _prefix, "README.md");
+    private string GetPictureDir() => Path.Combine(_rootDir, _prefix, "picture");
+    private string GetDocsDir() => Path.Combine(_rootDir, _prefix, "docs");
 
     /// <summary>
     /// 读取现有的壁纸数据
@@ -27,13 +40,14 @@ public class FileService
     public async Task<List<BingImage>> ReadBingImagesAsync()
     {
         var images = new List<BingImage>();
+        string bingPath = GetBingPath();
 
-        if (!File.Exists(_bingPath))
+        if (!File.Exists(bingPath))
         {
             return images;
         }
 
-        var lines = await File.ReadAllLinesAsync(_bingPath);
+        var lines = await File.ReadAllLinesAsync(bingPath);
         foreach (var line in lines)
         {
             var trimmed = line.Trim();
@@ -61,7 +75,7 @@ public class FileService
             images.Add(new BingImage(desc, date, url));
         }
 
-        Console.WriteLine($"[INFO] Read {images.Count} images from {_bingPath}");
+        Console.WriteLine($"[INFO] Read {images.Count} images from {bingPath}");
         return images;
     }
 
@@ -70,6 +84,9 @@ public class FileService
     /// </summary>
     public async Task WriteBingImagesAsync(List<BingImage> images)
     {
+        string bingPath = GetBingPath();
+        Directory.CreateDirectory(Path.GetDirectoryName(bingPath)!);
+
         var sb = new StringBuilder();
         sb.AppendLine("## Bing Wallpaper");
         sb.AppendLine();
@@ -80,8 +97,8 @@ public class FileService
             sb.AppendLine();
         }
 
-        await File.WriteAllTextAsync(_bingPath, sb.ToString());
-        Console.WriteLine($"[INFO] Written {images.Count} images to {_bingPath}");
+        await File.WriteAllTextAsync(bingPath, sb.ToString());
+        Console.WriteLine($"[INFO] Written {images.Count} images to {bingPath}");
     }
 
     /// <summary>
@@ -89,6 +106,9 @@ public class FileService
     /// </summary>
     public async Task WriteReadmeAsync(List<BingImage> images)
     {
+        string readmePath = GetReadmePath();
+        Directory.CreateDirectory(Path.GetDirectoryName(readmePath)!);
+
         var sb = new StringBuilder();
         sb.AppendLine("# Bing Wallpaper");
         sb.AppendLine();
@@ -111,8 +131,8 @@ public class FileService
         sb.AppendLine("---");
         sb.AppendLine($"*总共 {images.Count} 张壁纸，每日自动更新*");
 
-        await File.WriteAllTextAsync(_readmePath, sb.ToString());
-        Console.WriteLine($"[INFO] Written README.md");
+        await File.WriteAllTextAsync(readmePath, sb.ToString());
+        Console.WriteLine($"[INFO] Written README.md to {readmePath}");
     }
 
     /// <summary>
@@ -120,6 +140,9 @@ public class FileService
     /// </summary>
     public async Task WriteMonthInfoAsync(List<BingImage> images)
     {
+        string pictureDir = GetPictureDir();
+        Directory.CreateDirectory(pictureDir);
+
         var monthGroups = images
             .GroupBy(img => img.Date[..7])
             .OrderByDescending(g => g.Key);
@@ -127,9 +150,7 @@ public class FileService
         foreach (var group in monthGroups)
         {
             string month = group.Key;
-            string monthFile = Path.Combine(_pictureDir, $"{month}.md");
-
-            Directory.CreateDirectory(_pictureDir);
+            string monthFile = Path.Combine(pictureDir, $"{month}.md");
 
             var sb = new StringBuilder();
             sb.AppendLine($"# {month} Bing Wallpaper");
@@ -143,6 +164,8 @@ public class FileService
 
             await File.WriteAllTextAsync(monthFile, sb.ToString());
         }
+
+        Console.WriteLine($"[INFO] Written {monthGroups.Count()} month files to {pictureDir}");
     }
 
     /// <summary>
@@ -150,8 +173,9 @@ public class FileService
     /// </summary>
     public async Task WriteImagesJsonAsync(List<BingImage> images)
     {
-        Directory.CreateDirectory(_docsDir);
-        string jsonPath = Path.Combine(_docsDir, "images.json");
+        string docsDir = GetDocsDir();
+        Directory.CreateDirectory(docsDir);
+        string jsonPath = Path.Combine(docsDir, "images.json");
 
         var jsonImages = images.Select(img => new
         {
@@ -160,9 +184,10 @@ public class FileService
             url = img.Url
         });
 
-        string json = System.Text.Json.JsonSerializer.Serialize(jsonImages,
-            new System.Text.Json.JsonSerializerOptions { WriteIndented = true });
+        string json = JsonSerializer.Serialize(jsonImages,
+            new JsonSerializerOptions { WriteIndented = true });
 
         await File.WriteAllTextAsync(jsonPath, json);
+        Console.WriteLine($"[INFO] Written images.json to {jsonPath}");
     }
 }
