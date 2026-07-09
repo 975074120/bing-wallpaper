@@ -1,0 +1,48 @@
+name: .NET Bing Wallpaper
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # 每天 UTC 时间 0:10 运行（北京时间 8:10）
+    - cron: '10 0 * * *'
+    # 每天 UTC 时间 8:10 运行（北京时间 16:10）
+    - cron: '10 8 * * *'
+    # 每天 UTC 时间 16:10 运行（北京时间 0:10 次日）
+    - cron: '10 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '10.0.x'
+    
+    - name: Show current date
+      run: date
+    
+    - name: Restore dependencies
+      run: dotnet restore BingWallpaper/BingWallpaper.csprog
+    
+    - name: Build
+      run: dotnet build BingWallpaper/BingWallpaper.csproj -c Release --no-restore
+    
+    - name: Run Bing Wallpaper
+      run: dotnet run --project BingWallpaper/BingWallpaper.csproj -c Release --no-build
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "40293659+975074120@users.noreply.github.com"
+        git config --local user.name "975074120"
+        git pull --rebase
+        git add -A
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto update: Bing wallpaper $(date +'%Y-%m-%d')"
+        git push
