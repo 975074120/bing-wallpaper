@@ -8,7 +8,7 @@ namespace BingWallpaper.Services;
 /// </summary>
 public class BingApiService
 {
-    private const string BingApiTemplate = "https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=9&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160&setmkt={0}&setlang=en";
+    private const string BingApiTemplate = "https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&pid=hp&FORM=BEHPTB&uhd=1&setmkt={0}&setlang=en";
     private const string BingUrl = "https://cn.bing.com";
 
     private static readonly string[] Regions = { "en-US", "zh-CN" };
