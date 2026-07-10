@@ -4,15 +4,27 @@
 
 2026-07-09 | [在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)](https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4) 
 
+2026-07-08 | [阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4) 
+
 2026-07-08 | [阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2026-07-07 | [板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4) 
 
 2026-07-07 | [板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
+2026-07-06 | [锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4) 
+
 2026-07-06 | [锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2026-07-05 | [瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4) 
 
 2026-07-05 | [瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
+2026-07-04 | [凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4) 
+
 2026-07-04 | [凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2026-07-03 | [小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4) 
 
 2026-07-03 | [小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
@@ -42,9 +54,9 @@
 
 2026-06-20 | [漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)](https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2026-06-19 | [湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)](https://cn.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
-
 2026-06-19 | [湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)](https://cn.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2026-06-19 | [湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)](https://cn.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-06-18 | [萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
@@ -650,9 +662,9 @@
 
 2025-08-22 | [帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2025-08-21 | [穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN3286472001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
-
 2025-08-21 | [穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2025-08-21 | [穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN3286472001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-08-20 | [博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)](https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
@@ -1960,9 +1972,9 @@
 
 2023-11-09 | [秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-11-08 | [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN7689731997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
-
 2023-11-08 | [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2023-11-08 | [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN7689731997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-07 | [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
@@ -2218,9 +2230,9 @@
 
 2023-07-04 | [草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)](https://cn.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-07-03 | [班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN7537137739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
-
 2023-07-03 | [班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2023-07-03 | [班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN7537137739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-07-02 | [费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://cn.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
@@ -2274,9 +2286,9 @@
 
 2023-06-07 | [普韦布洛·博尼托镇，查科文化国家历史公园，美国新墨西哥州 (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChacoCulture_ZH-CN2098865361_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-06-06 | [埃特尔塔海岸的白垩悬崖，诺曼底，法国 (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN9911283373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
-
 2023-06-06 | [The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2023-06-06 | [埃特尔塔海岸的白垩悬崖，诺曼底，法国 (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN9911283373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-06-05 | [辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
@@ -2424,9 +2436,9 @@
 
 2023-03-25 | [塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-24 | [盛开的熊蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
-
 2023-03-24 | [盛开的野蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2023-03-24 | [盛开的熊蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-03-23 | [杜费里峡谷，上萨瓦省，法国 (© Jean-Philippe Delobelle/Biosphoto/Alamy)](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
