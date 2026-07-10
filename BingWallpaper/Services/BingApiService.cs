@@ -23,9 +23,9 @@ public class BingApiService
     }
 
     /// <summary>
-    /// 获取指定地区的壁纸（只取第一张今日壁纸）
+    /// 获取指定地区最近 N 天的壁纸列表（API 返回 8 天，全部取回用于容错补缺）
     /// </summary>
-    public async Task<BingImage?> FetchTodayAsync(string region)
+    public async Task<List<BingImage>> FetchRecentAsync(string region)
     {
         string apiUrl = string.Format(BingApiTemplate, region);
         string json = await _httpClient.GetStringAsync(apiUrl);
@@ -34,20 +34,24 @@ public class BingApiService
         var root = doc.RootElement;
         var imagesArray = root.GetProperty("images");
 
-        if (imagesArray.GetArrayLength() == 0) return null;
+        var results = new List<BingImage>();
 
-        var item = imagesArray[0];
-        string url = BingUrl + item.GetProperty("url").GetString();
-        string enddate = item.GetProperty("enddate").GetString()!;
-        string copyright = item.GetProperty("copyright").GetString() ?? "";
-
-        // 转换日期格式: yyyyMMdd -> yyyy-MM-dd
-        if (DateTime.TryParseExact(enddate, "yyyyMMdd", null,
-                System.Globalization.DateTimeStyles.None, out var dt))
+        foreach (var item in imagesArray.EnumerateArray())
         {
-            enddate = dt.ToString("yyyy-MM-dd");
+            string url = BingUrl + item.GetProperty("url").GetString();
+            string enddate = item.GetProperty("enddate").GetString()!;
+            string copyright = item.GetProperty("copyright").GetString() ?? "";
+
+            // 转换日期格式: yyyyMMdd -> yyyy-MM-dd
+            if (DateTime.TryParseExact(enddate, "yyyyMMdd", null,
+                    System.Globalization.DateTimeStyles.None, out var dt))
+            {
+                enddate = dt.ToString("yyyy-MM-dd");
+            }
+
+            results.Add(new BingImage(copyright, enddate, url));
         }
 
-        return new BingImage(copyright, enddate, url);
+        return results;
     }
 }
