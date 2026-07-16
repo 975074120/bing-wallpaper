@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-17 [download 4k](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-16 [download 4k](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-15 [download 4k](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-08 [download 4k](https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-07 [download 4k](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 
 ---
-*总共 1268 张壁纸，每日自动更新*
+*总共 1269 张壁纸，每日自动更新*
