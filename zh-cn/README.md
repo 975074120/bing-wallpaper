@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-22 [download 4k](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-21 [download 4k](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-20 [download 4k](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-13 [download 4k](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-12 [download 4k](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1273 张壁纸，每日自动更新*
+*总共 1274 张壁纸，每日自动更新*
