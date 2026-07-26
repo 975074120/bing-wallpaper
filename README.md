@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-27 [download 4k](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-26 [download 4k](https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-25 [download 4k](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-18 [download 4k](https://cn.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-17 [download 4k](https://cn.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1994 张壁纸，每日自动更新*
+*总共 1995 张壁纸，每日自动更新*
