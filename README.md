@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-02 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-01 [download 4k](https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-31 [download 4k](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-24 [download 4k](https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-23 [download 4k](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2000 张壁纸，每日自动更新*
+*总共 2001 张壁纸，每日自动更新*
