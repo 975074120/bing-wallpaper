@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-04 [download 4k](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-03 [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-02 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-26 [download 4k](https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-25 [download 4k](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2002 张壁纸，每日自动更新*
+*总共 2003 张壁纸，每日自动更新*
