@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-08 [download 4k](https://cn.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-07 [download 4k](https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-06 [download 4k](https://cn.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-30 [download 4k](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-29 [download 4k](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2006 张壁纸，每日自动更新*
+*总共 2007 张壁纸，每日自动更新*
