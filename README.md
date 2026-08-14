@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-15 [download 4k](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-14 [download 4k](https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-13 [download 4k](https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-06 [download 4k](https://cn.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-05 [download 4k](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2013 张壁纸，每日自动更新*
+*总共 2014 张壁纸，每日自动更新*
