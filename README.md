@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-21 [download 4k](https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-20 [download 4k](https://cn.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-19 [download 4k](https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-12 [download 4k](https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-11 [download 4k](https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2019 张壁纸，每日自动更新*
+*总共 2020 张壁纸，每日自动更新*
