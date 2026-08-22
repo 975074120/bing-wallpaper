@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-23 [download 4k](https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-22 [download 4k](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-21 [download 4k](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-14 [download 4k](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-13 [download 4k](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1305 张壁纸，每日自动更新*
+*总共 1306 张壁纸，每日自动更新*
