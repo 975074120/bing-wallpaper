@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-31 [download 4k](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-30 [download 4k](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-29 [download 4k](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-22 [download 4k](https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-21 [download 4k](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1313 张壁纸，每日自动更新*
+*总共 1314 张壁纸，每日自动更新*
