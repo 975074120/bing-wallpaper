@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-04 [download 4k](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-03 [download 4k](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-02 [download 4k](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-26 [download 4k](https://cn.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-08-25 [download 4k](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2033 张壁纸，每日自动更新*
+*总共 2034 张壁纸，每日自动更新*
