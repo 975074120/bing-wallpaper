@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-12 [download 4k](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-11 [download 4k](https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-10 [download 4k](https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-03 [download 4k](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-02 [download 4k](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2041 张壁纸，每日自动更新*
+*总共 2042 张壁纸，每日自动更新*
