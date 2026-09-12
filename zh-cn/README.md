@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-13 [download 4k](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-12 [download 4k](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-11 [download 4k](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-04 [download 4k](https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-03 [download 4k](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1326 张壁纸，每日自动更新*
+*总共 1327 张壁纸，每日自动更新*
