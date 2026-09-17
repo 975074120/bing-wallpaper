@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-18 [download 4k](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-17 [download 4k](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-16 [download 4k](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-09 [download 4k](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-08 [download 4k](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1331 张壁纸，每日自动更新*
+*总共 1332 张壁纸，每日自动更新*
