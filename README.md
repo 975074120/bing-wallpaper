@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-04 [download 4k](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-03 [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-02 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-25 [download 4k](https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-24 [download 4k](https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2063 张壁纸，每日自动更新*
+*总共 2064 张壁纸，每日自动更新*
