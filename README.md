@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-08 [download 4k](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-07 [download 4k](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-06 [download 4k](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-29 [download 4k](https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-09-28 [download 4k](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2067 张壁纸，每日自动更新*
+*总共 2068 张壁纸，每日自动更新*
