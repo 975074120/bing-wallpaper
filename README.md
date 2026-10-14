@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-15 [download 4k](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-14 [download 4k](https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-13 [download 4k](https://cn.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-06 [download 4k](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-05 [download 4k](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2074 张壁纸，每日自动更新*
+*总共 2075 张壁纸，每日自动更新*
