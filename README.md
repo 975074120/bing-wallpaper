@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-17 [download 4k](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-16 [download 4k](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-15 [download 4k](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-08 [download 4k](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-07 [download 4k](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2076 张壁纸，每日自动更新*
+*总共 2077 张壁纸，每日自动更新*
