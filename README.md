@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-19 [download 4k](https://cn.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-18 [download 4k](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-17 [download 4k](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-10 [download 4k](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-09 [download 4k](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2078 张壁纸，每日自动更新*
+*总共 2079 张壁纸，每日自动更新*
