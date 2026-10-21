@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-22 [download 4k](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-21 [download 4k](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-20 [download 4k](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-13 [download 4k](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-12 [download 4k](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1365 张壁纸，每日自动更新*
+*总共 1366 张壁纸，每日自动更新*
