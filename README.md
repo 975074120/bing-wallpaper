@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-26 [download 4k](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-25 [download 4k](https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-24 [download 4k](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-17 [download 4k](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-16 [download 4k](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2085 张壁纸，每日自动更新*
+*总共 2086 张壁纸，每日自动更新*
