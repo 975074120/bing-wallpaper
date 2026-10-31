@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-01 [download 4k](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-31 [download 4k](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-30 [download 4k](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-23 [download 4k](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-22 [download 4k](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1375 张壁纸，每日自动更新*
+*总共 1376 张壁纸，每日自动更新*
