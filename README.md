@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-01 [download 4k](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-31 [download 4k](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-30 [download 4k](https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-23 [download 4k](https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-22 [download 4k](https://cn.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2091 张壁纸，每日自动更新*
+*总共 2092 张壁纸，每日自动更新*
