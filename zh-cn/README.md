@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-07 [download 4k](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-06 [download 4k](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-05 [download 4k](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-29 [download 4k](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-10-28 [download 4k](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1381 张壁纸，每日自动更新*
+*总共 1382 张壁纸，每日自动更新*
