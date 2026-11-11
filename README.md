@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-12 [download 4k](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-11 [download 4k](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-10 [download 4k](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-03 [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-02 [download 4k](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2102 张壁纸，每日自动更新*
+*总共 2103 张壁纸，每日自动更新*
