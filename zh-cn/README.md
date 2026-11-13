@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-14 [download 4k](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-13 [download 4k](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-12 [download 4k](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-05 [download 4k](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-04 [download 4k](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1388 张壁纸，每日自动更新*
+*总共 1389 张壁纸，每日自动更新*
