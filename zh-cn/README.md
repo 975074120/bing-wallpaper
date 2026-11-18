@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-19 [download 4k](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-18 [download 4k](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-17 [download 4k](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-10 [download 4k](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-09 [download 4k](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1393 张壁纸，每日自动更新*
+*总共 1394 张壁纸，每日自动更新*
