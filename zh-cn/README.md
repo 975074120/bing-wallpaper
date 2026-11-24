@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-25 [download 4k](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-24 [download 4k](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-23 [download 4k](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-16 [download 4k](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-15 [download 4k](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 1399 张壁纸，每日自动更新*
+*总共 1400 张壁纸，每日自动更新*
