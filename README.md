@@ -6,6 +6,8 @@
 
 ## 最近壁纸
 
+![](https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-28 [download 4k](https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
+
 ![](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-27 [download 4k](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
 ![](https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-26 [download 4k](https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
@@ -24,8 +26,6 @@
 
 ![](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-19 [download 4k](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
 
-![](https://cn.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-18 [download 4k](https://cn.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1920&h=1080&rs=1&c=4)
-
 
 ---
-*总共 2118 张壁纸，每日自动更新*
+*总共 2119 张壁纸，每日自动更新*
